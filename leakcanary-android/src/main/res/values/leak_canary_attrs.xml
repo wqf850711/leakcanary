@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="leak_canary_MoreDetailsView">
+    <attr name="leak_canary_plus_color" format="color" />
+  </declare-styleable>
+</resources>
